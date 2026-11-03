@@ -1,0 +1,1 @@
+**Conjecture**: (Standard conjecture C: algebraicity of Künneth projectors.) For every smooth projective $d$-fold $X$ over an algebraically closed field and every Weil cohomology $H$, each projector $H^*(X)\to H^i(X)\hookrightarrow H^*(X)$ is induced by a correspondence in $\mathrm{CH}^d(X\times X)_{\mathbf Q}$. Equivalently, every Künneth component of $[\Delta_X]$ is algebraic.
