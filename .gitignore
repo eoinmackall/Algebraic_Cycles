@@ -1,0 +1,31 @@
+# >>> proofs >>>
+# Managed by proofs init: re-running it replaces everything between these
+# markers, so put your own rules outside them.
+#
+# Reference input material is the conjecture maintainer's local working
+# copy: the maintainer points `proofs parse` at it, and the parsed output
+# (references.md, beside the directory) is what gets committed with the
+# conjecture. Other users pull references.md; they never see the inputs.
+conjectures/*/references/
+# Each user's private notes for the planner: never committed or shared,
+# so every user keeps their own (README, "Comments").
+conjectures/*/comments.md
+.comments
+*.checkpoint.json
+# Per-writer temp files a crashed checkpoint write can leave behind
+# (named <checkpoint>.<pid>.<thread>.tmp).
+*.checkpoint.json.*.tmp
+# Cross-process lock sidecars beside the DAG and certificate files
+# (locking.py), and the temp files a crashed write can leave behind: every
+# writer of a committed file writes <file>...tmp beside it, then
+# os.replace (or os.link, for a refutation).
+conjectures/*/dags/*.lock
+conjectures/*/certificates/*.lock
+conjectures/*/dags/*.tmp
+conjectures/*/certificates/*.tmp
+conjectures/*/refutations/.*.tmp
+conjectures/*/references.md.*.tmp
+# Never commit API keys (README "Backend": --api-key).
+.env
+.env.*
+# <<< proofs <<<
