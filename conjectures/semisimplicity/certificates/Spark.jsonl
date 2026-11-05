@@ -35,3 +35,4 @@
 {"user_id":"Spark","lemma_id":"lemma_326","hash":"932e2e1f35932174fe4ef0b04ceaf47e3587362fddeafcbc0b90891e1bccfc48","verifier":"Spark","model":"nvidia/Qwen3.8-Flash-Next-FP4-Local","date":"2026-11-04T17:50:01Z","count":1}
 {"user_id":"Spark","lemma_id":"lemma_322","hash":"1c4f703d6f4ce042c1eca018fa78467e68369f2674ea7ca527e33e8b471dd51b","verifier":"Spark","model":"nvidia/Qwen3.8-Flash-Next-FP4-Local","date":"2026-11-04T17:56:08Z","count":1}
 {"user_id":"Spark","lemma_id":"lemma_327","hash":"c438b0f8d6bc165c63690d461033880eee3f8853df87dfd834b6930ef2dd5975","verifier":"Spark","model":"nvidia/Qwen3.8-Flash-Next-FP4-Local","date":"2026-11-04T20:06:59Z","count":1}
+{"user_id":"Spark","lemma_id":"lemma_dual_connecting_maps_adjoint","hash":"579da201bbf9e3238e2134fea5e9e3a4edc5ab3fef0caead02f3744f326e435e","verifier":"Spark","model":"nvidia/Qwen3.8-Flash-Next-FP4-Local","date":"2026-11-04T23:03:33Z","count":1}
