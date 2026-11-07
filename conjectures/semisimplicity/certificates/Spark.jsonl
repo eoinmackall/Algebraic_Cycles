@@ -78,3 +78,5 @@
 {"user_id":"Spark","lemma_id":"lemma_373","hash":"7dd734299acdb7eef9f4de0ef0835dcb41e465a3b1bc0b6080f498389d9f3905","verifier":"Spark","model":"nvidia/Qwen3.8-Flash-Next-FP4-Local","date":"2026-11-06T16:34:34Z","count":1}
 {"user_id":"Spark","lemma_id":"lemma_375","hash":"766520632d64ec7b31761b9cdbe2de6242af1038388e849341e0fa9d141fcee8","verifier":"Spark","model":"nvidia/Qwen3.8-Flash-Next-FP4-Local","date":"2026-11-06T17:49:09Z","count":1}
 {"user_id":"Spark","lemma_id":"lemma_377","hash":"413e2b6553078a3660c511b7ef7e9c6d4f3c14fa1658d5e54453f54d4587833c","verifier":"Spark","model":"nvidia/Qwen3.8-Flash-Next-FP4-Local","date":"2026-11-06T18:37:49Z","count":1}
+{"user_id":"Spark","lemma_id":"lemma_380","hash":"b2844579a54e37e1d402ad6c2b3ca402df637b3fa5cc897b0169d55e73e48b3d","verifier":"Spark","model":"nvidia/Qwen3.8-Flash-Next-FP4-Local","date":"2026-11-06T22:30:58Z","count":1}
+{"user_id":"Spark","lemma_id":"lemma_product_top_semisimplicity_descent","hash":"a0085e7e34e260bb62dc01911c78e27bfae5710ae7b48bc07a732c909645effd","verifier":"Spark","model":"nvidia/Qwen3.8-Flash-Next-FP4-Local","date":"2026-11-07T01:38:32Z","count":1}
