@@ -29,3 +29,9 @@
 {"user_id":"eoinm","lemma_id":"lemma_51","hash":"0b8f9e4af47f17148375a10d1583f19589aeedf593514e0a497ec449b4523544","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-06T15:02:20Z","count":1}
 {"user_id":"eoinm","lemma_id":"lemma_54","hash":"5cef874a791fae173814760fde9e8710c4c33174eacbffe8a16796055eae3bd5","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-06T15:18:01Z","count":1}
 {"user_id":"eoinm","lemma_id":"lemma_55","hash":"4b387f083c087db0c21f84df87b3585a97bd70672a5b9ef3365e1b3b003e02fa","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-06T15:20:52Z","count":1}
+{"user_id":"eoinm","lemma_id":"lemma_58","hash":"5e3839c2309f823c84727c58cc9b1f158d58e2fa7de38d4eee2c9111ffb7c811","verifier":"eoinm","model":"Qwen/Qwen3.8-Flash-Next-FP8","date":"2026-11-06T22:44:41Z","count":1}
+{"user_id":"eoinm","lemma_id":"lemma_62","hash":"b76a804f2110b58ae360a328babbd2e73d34968d5e79383491a1b2b61a229e74","verifier":"eoinm","model":"Qwen/Qwen3.8-Flash-Next-FP8","date":"2026-11-07T04:54:24Z","count":1}
+{"user_id":"eoinm","lemma_id":"lemma_63","hash":"39b6b888654e05015d5808054f0959530af190a63ac6308a10e30b5f2fc43472","verifier":"eoinm","model":"Qwen/Qwen3.8-Flash-Next-FP8","date":"2026-11-07T05:13:17Z","count":1}
+{"user_id":"eoinm","lemma_id":"lemma_64","hash":"7511d4304c9cd509dfc5af0e61ea1911a2e0fd59ce3bd17cd0f6cd377fcb5958","verifier":"eoinm","model":"Qwen/Qwen3.8-Flash-Next-FP8","date":"2026-11-07T08:18:44Z","count":1}
+{"user_id":"eoinm","lemma_id":"lemma_67","hash":"07381a2e5a9456854a8657064efeca3801d89bf052ad927c56c567faea3d91d9","verifier":"eoinm","model":"Qwen/Qwen3.8-Flash-Next-FP8","date":"2026-11-07T08:54:39Z","count":1}
+{"user_id":"eoinm","lemma_id":"lemma_66","hash":"ff4765a122eb58d7edba60755bfaf682bfe907bd0fc04a5e9336040b2be9958c","verifier":"eoinm","model":"Qwen/Qwen3.8-Flash-Next-FP8","date":"2026-11-07T09:01:49Z","count":1}
