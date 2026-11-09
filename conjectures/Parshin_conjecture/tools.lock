@@ -1,0 +1,18 @@
+{
+  "policy": {
+    "result_bytes": 65536
+  },
+  "tools": {
+    "python": {
+      "packages": {
+        "networkx": "3.6.1",
+        "numpy": "2.5.4",
+        "sympy": "1.14.0"
+      },
+      "version": "3.14.10"
+    },
+    "sage": {
+      "version": "10.9"
+    }
+  }
+}

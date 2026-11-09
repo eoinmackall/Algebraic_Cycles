@@ -25,6 +25,14 @@ conjectures/*/dags/*.tmp
 conjectures/*/certificates/*.tmp
 conjectures/*/refutations/.*.tmp
 conjectures/*/references.md.*.tmp
+# Code tools (codetools.py, execution.py): every execution's script and
+# log, and the per-machine limits — the machine's, never the conjecture's.
+conjectures/*/scratch/
+conjectures/*/limits.json
+.proofs-local.json
+conjectures/*/runs/*.lock
+conjectures/*/runs/*.tmp
+conjectures/*/code/*/*.tmp
 # Never commit API keys (README "Backend": --api-key).
 .env
 .env.*
