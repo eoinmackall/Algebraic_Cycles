@@ -50,3 +50,8 @@
 {"user_id":"eoinm","lemma_id":"lemma_94_milnor_K2_finite_field","hash":"4430e43205680912a8cf4c75c1b3fe84d96a5adf4c16d26eeeafcec6c49edef9","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-09T19:10:20Z","count":1}
 {"user_id":"eoinm","lemma_id":"lemma_88_only_if","hash":"25dc163f8898dde451dc7d398ef3cf057dd2930822c96cb072b04ff0859c0156","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-09T20:12:07Z","count":1}
 {"user_id":"eoinm","lemma_id":"lemma_97_milnor_K2_tame_symbol","hash":"bac70272cbaf9f773e252e42edc4e4c3955344676a903c3f21f8ebe63b77d6db","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-09T21:52:08Z","count":1}
+{"user_id":"eoinm","lemma_id":"lemma_95","hash":"60881354eef6d4b9327c0a3383f59f5d454b21c7ab2b9b9b05282b1a2989c73a","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-10T03:25:03Z","count":1}
+{"user_id":"eoinm","lemma_id":"lemma_96","hash":"1df21ac5af6880cca002ecf5d5a93f0cebbb2591120b5b9631ad415474ef7d5a","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-10T12:22:45Z","count":1}
+{"user_id":"eoinm","lemma_id":"lemma_72_rational_field","hash":"b41d13920c5245a39e17896f7477c5087e6e8fd18146f3e644df06e04f2b1930","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-10T13:02:06Z","count":1}
+{"user_id":"eoinm","lemma_id":"lemma_99_dvr_k_t_base","hash":"71765029b13b9579a3983128bcbef6066e40c370253e2ba9e70df275a1992a76","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-10T13:18:39Z","count":1}
+{"user_id":"eoinm","lemma_id":"lemma_101","hash":"188a04853b086318c7bad63f6861693da8e3220914be5ff7da8d9beb05ff76a3","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-10T15:05:59Z","count":1}
