@@ -47,3 +47,6 @@
 {"user_id":"eoinm","lemma_id":"lemma_89","hash":"23cc7f217b0016fb3497adbdba83a538f8431ed7245ed6b84e13575bbd69f51b","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-09T15:24:44Z","count":1}
 {"user_id":"eoinm","lemma_id":"lemma_90","hash":"b45afcfa31b12ef8617d4a96df3bedd6ca1a789d6c69bfed49f93a5cc173559c","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-09T15:26:18Z","count":1}
 {"user_id":"eoinm","lemma_id":"lemma_91","hash":"64ee3edd1a54b68a5b046ec8f4c0012df97b1ba174f1fd779cdbec69c402f5c6","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-09T15:52:09Z","count":1}
+{"user_id":"eoinm","lemma_id":"lemma_94_milnor_K2_finite_field","hash":"4430e43205680912a8cf4c75c1b3fe84d96a5adf4c16d26eeeafcec6c49edef9","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-09T19:10:20Z","count":1}
+{"user_id":"eoinm","lemma_id":"lemma_88_only_if","hash":"25dc163f8898dde451dc7d398ef3cf057dd2930822c96cb072b04ff0859c0156","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-09T20:12:07Z","count":1}
+{"user_id":"eoinm","lemma_id":"lemma_97_milnor_K2_tame_symbol","hash":"bac70272cbaf9f773e252e42edc4e4c3955344676a903c3f21f8ebe63b77d6db","verifier":"eoinm","model":"Qwen/Qwen3.8-27B-FP8","date":"2026-11-09T21:52:08Z","count":1}
