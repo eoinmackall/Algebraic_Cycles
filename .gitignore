@@ -11,18 +11,14 @@ conjectures/*/references/
 # so every user keeps their own (README, "Comments").
 conjectures/*/comments.md
 .comments
-*.checkpoint.json
-# Per-writer temp files a crashed checkpoint write can leave behind
-# (named <checkpoint>.<pid>.<thread>.tmp).
-*.checkpoint.json.*.tmp
-# Cross-process lock sidecars beside the DAG and certificate files
-# (locking.py), and the temp files a crashed write can leave behind: every
-# writer of a committed file writes <file>...tmp beside it, then
-# os.replace (or os.link, for a refutation).
-conjectures/*/dags/*.lock
-conjectures/*/certificates/*.lock
-conjectures/*/dags/*.tmp
-conjectures/*/certificates/*.tmp
+# Each run's checkpoint and lock (core/checkpoint.py): local to the machine.
+conjectures/*/checkpoints/
+# The temp files a crashed rewrite can leave behind: proofs prune rewrites
+# a stream as <file>.<pid>.tmp beside it, then os.replace; a refutation is
+# written as .<name>...tmp and linked into place.
+conjectures/*/dags/*/*/*.tmp
+conjectures/*/certificates/*/*/*.tmp
+conjectures/*/computations/*/*/*.tmp
 conjectures/*/refutations/.*.tmp
 conjectures/*/references.md.*.tmp
 # Code tools (codetools.py, execution.py): every execution's script and
@@ -30,9 +26,7 @@ conjectures/*/references.md.*.tmp
 conjectures/*/scratch/
 conjectures/*/limits.json
 .proofs-local.json
-conjectures/*/runs/*.lock
-conjectures/*/runs/*.tmp
-conjectures/*/code/*/*.tmp
+conjectures/*/code/*/*/*.tmp
 # Never commit API keys (README "Backend": --api-key).
 .env
 .env.*

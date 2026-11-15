@@ -1,0 +1,4 @@
+{"type": "header", "user.id": "Miner", "user.name": "", "user.email": "", "run_id": "8e4051f41c2bfa74"}
+{"type": "certificate", "lemma_id": "Miner/8e4051f41c2bfa74/lemma_6", "hash": "70392a066f63ca48b83f02e70357fb38a07ca5d6ccbecea60dc51c874c552642", "verifier": "Miner", "model": "qwen3.8-27b", "date": "2026-11-12T23:16:28Z"}
+{"type": "certificate", "lemma_id": "Miner/8e4051f41c2bfa74/lemma_14", "hash": "7d06766b44dcbd7fe572dcb4052807cd603e96617e8d36886f4439e591f366d2", "verifier": "Miner", "model": "qwen3.8-27b", "date": "2026-11-13T01:50:16Z"}
+{"type": "certificate", "lemma_id": "Miner/8e4051f41c2bfa74/lemma_15", "hash": "4c4204b117ab3b84dc827b9e8b5d53d6d11be3d4b64140e294d86d5af2bdb26e", "verifier": "Miner", "model": "qwen3.8-27b", "date": "2026-11-13T01:50:57Z"}
