@@ -1,2 +1,6 @@
 {"type": "header", "user.id": "eoinm", "user.name": "Eoin  Mackall", "user.email": "eoinmackall@gmail.com", "run_id": "ebe471c6ef5b2d01"}
 {"type": "certificate", "lemma_id": "eoinm/ebe471c6ef5b2d01/5dbe93", "hash": "ec531b3761877a2dc774fc1971d423a06651b83f6e1cb738fa4eb93e6bc47932", "verifier": "eoinm", "model": "deepseek-ai/DeepSeek-V4.1-Flash-1017", "date": "2026-11-16T01:01:41Z"}
+{"type": "certificate", "lemma_id": "eoinm/ebe471c6ef5b2d01/6f77f7", "hash": "09dd616f6e8cf0d58fcff2e64b938d56a78c7ab34ea7a10c8169cb225d27a47f", "verifier": "eoinm", "model": "deepseek-ai/DeepSeek-V4.1-Flash-1017", "date": "2026-11-16T05:31:48Z"}
+{"type": "certificate", "lemma_id": "eoinm/ebe471c6ef5b2d01/d63243", "hash": "12f62578f6854a1dbd1719a8f065df732e202185ffa938906bac6494199d5825", "verifier": "eoinm", "model": "deepseek-ai/DeepSeek-V4.1-Flash-1017", "date": "2026-11-16T06:17:24Z"}
+{"type": "certificate", "lemma_id": "eoinm/ebe471c6ef5b2d01/d0ddec", "hash": "7f8543206e689f0584a7b550f697650842eb98f758492abb4db6d53c157ffc54", "verifier": "eoinm", "model": "deepseek-ai/DeepSeek-V4.1-Flash-1017", "date": "2026-11-16T06:32:34Z"}
+{"type": "certificate", "lemma_id": "eoinm/ebe471c6ef5b2d01/6a650a", "hash": "7af7eaee61a4877a06b8a70ac5444cc41dea5afa18d5b07a6689f750d1dc46ea", "verifier": "eoinm", "model": "deepseek-ai/DeepSeek-V4.1-Flash-1017", "date": "2026-11-16T07:51:05Z"}
