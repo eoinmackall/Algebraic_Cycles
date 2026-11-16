@@ -1,0 +1,2 @@
+{"type": "header", "user.id": "eoinm", "user.name": "Eoin  Mackall", "user.email": "eoinmackall@gmail.com", "run_id": "172653a31514f511"}
+{"type": "certificate", "lemma_id": "eoinm/172653a31514f511/6d7b18", "hash": "6fd32f610efbdcd3844508fedde0db58b9ce81b0f9fa4a00663b8162d41c6f1b", "verifier": "eoinm", "model": "Qwen/Qwen3.8-27B-FP8", "date": "2026-11-16T00:51:32Z"}

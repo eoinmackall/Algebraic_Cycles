@@ -1,0 +1,2 @@
+{"type": "header", "user.id": "eoinm", "user.name": "Eoin  Mackall", "user.email": "eoinmackall@gmail.com", "run_id": "ebe471c6ef5b2d01"}
+{"type": "certificate", "lemma_id": "eoinm/ebe471c6ef5b2d01/5dbe93", "hash": "ec531b3761877a2dc774fc1971d423a06651b83f6e1cb738fa4eb93e6bc47932", "verifier": "eoinm", "model": "deepseek-ai/DeepSeek-V4.1-Flash-1017", "date": "2026-11-16T01:01:41Z"}
