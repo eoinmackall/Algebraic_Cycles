@@ -1,0 +1,2 @@
+{"type": "header", "user.id": "Spark", "user.name": "", "user.email": "", "run_id": "269754157e2fa7ac"}
+{"type": "certificate", "lemma_id": "Spark/9827c89e17d0e461/68fd01", "hash": "e3c07c6e32c7f4e0e6f080c3a3e5e47bbd6611281e32d8f27fdc5c38386495ea", "verifier": "Spark", "model": "nvidia/Qwen3.8-Flash-Next-FP4-Local", "date": "2026-11-18T23:34:13Z"}
