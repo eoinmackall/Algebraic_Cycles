@@ -22,3 +22,4 @@
 {"type": "certificate", "lemma_id": "eoinm/172653a31514f511/b35fef", "hash": "b24ca3f6c1fd57b19f5e2c921255a4550ecd9012dabbe79623123867e3ec15ca", "verifier": "eoinm", "model": "Qwen/Qwen3.8-27B-FP8", "date": "2026-11-18T11:04:21Z"}
 {"type": "certificate", "lemma_id": "eoinm/172653a31514f511/708fef", "hash": "665c819fff125cc85318980625d483c8c41419b66dcfe259d6a798bfab392cdd", "verifier": "eoinm", "model": "Qwen/Qwen3.8-27B-FP8", "date": "2026-11-18T14:10:35Z"}
 {"type": "certificate", "lemma_id": "eoinm/172653a31514f511/6f7db7", "hash": "87c4bcb6f2f30b870f108f8eaa0eec1c4e44e56ca9f6a1ed1620fc69942559dc", "verifier": "eoinm", "model": "Qwen/Qwen3.8-27B-FP8", "date": "2026-11-18T14:47:47Z"}
+{"type": "certificate", "lemma_id": "eoinm/172653a31514f511/b46bde", "hash": "beb1ed0ebd42fcf3fa0dbb8b8c52498eac2dde26c94d8d1f10f29a3e34fc4ba7", "verifier": "eoinm", "model": "Qwen/Qwen3.8-27B-FP8", "date": "2026-11-18T21:55:01Z"}
