@@ -22,7 +22,9 @@ conjectures/*/computations/*/*/*.tmp
 conjectures/*/refutations/.*.tmp
 conjectures/*/references.md.*.tmp
 # Code tools (codetools.py, execution.py): every execution's script and
-# log, and the per-machine limits — the machine's, never the conjecture's.
+# log, and the per-machine limits and settings — the machine's, never the
+# conjecture's. .proofs-local.json, unanchored, covers the workspace's and
+# every conjecture's.
 conjectures/*/scratch/
 conjectures/*/limits.json
 .proofs-local.json
